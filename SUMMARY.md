@@ -1,3 +1,5 @@
+# Summary
+
 ## Summary
 
 * [Introduction](README.md)
@@ -12,9 +14,6 @@
   * [Simplified scheduling](assets/51-simplified-scheduling.md)
   * [Recommended basic programming workflow](assets/52-recommended-basic-programming-workflow.md)
 * [Compiling, uploading and erasing scripts](compiling-uploading-scripts.md)
-  * [RAM](compiling-uploading-scripts/stuff.md)
-  * [Flash](compiling-uploading-scripts/flash.md)
-  * [MyCube](compiling-uploading-scripts/mycube.md)
   * [Starting scripts in the standard way](compiling-uploading-scripts/starting-scripts-in-the-standard-way.md)
   * [Multiple script support - from FW 4.5 and RFC 0.8](compiling-uploading-scripts/multiple-script-support-from-fw-45-and-rfc-08.md)
   * [Starting scripts automatically](compiling-uploading-scripts/starting-scripts-automatically.md)
@@ -48,7 +47,7 @@
     * [boot](interactive-shell/system-shell-commands/boot.md)
     * [restart](interactive-shell/system-shell-commands/restart.md)
     * [appinfo](interactive-shell/system-shell-commands/appinfo.md)
-    * [fwident(r)](interactive-shell/system-shell-commands/fwidentr.md)
+    * [fwident\(r\)](interactive-shell/system-shell-commands/fwidentr.md)
     * [cpuident](interactive-shell/system-shell-commands/cpuident.md)
     * [bident](interactive-shell/system-shell-commands/bident.md)
     * [protection](interactive-shell/system-shell-commands/protection.md)
@@ -95,7 +94,7 @@
     * SetPointColor
     * [DrawPoint](api-native-functions/drawpoint.md)
     * [DrawSide](api-native-functions/drawside.md)
-    * [SetRgbColor(r,g,b)](api-native-functions/setrgbcolorrgb.md)
+    * [SetRgbColor\(r,g,b\)](api-native-functions/setrgbcolorrgb.md)
     * [DrawSquare](api-native-functions/drawsquare.md)
     * [DrawCross](api-native-functions/drawcross.md)
     * [PushCanvas](api-native-functions/pushcanvas.md)
@@ -153,18 +152,17 @@
     * [WalkerMove](api-native-functions/walkermove.md)
     * [WalkerTurn](api-native-functions/walkerturn.md)
     * [WalkerDiff](api-native-functions/walkerdiff.md)
-    * Resolve_Buddies
-    [OppositeStep](api-native-functions/oppositestep.md)
+    * [OppositeStep](api-native-functions/oppositestep.md)
     * GetCsPoint
-    * Kick_Walker
-    * Diff_To_Spot_Step
+    * Kick\_Walker
+    * Diff\_To\_Spot\_Step
     * [WalkerGetDir](api-native-functions/walkergetdir.md)
     * [WalkerSetDir](api-native-functions/walkersetdir.md)
     * [WalkerGetNorm](api-native-functions/walkergetnorm.md)
     * [WalkerBuddy](api-native-functions/walkerbuddy.md)
     * [WalkerDirUp](api-native-functions/walkerdirup.md)
     * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
-    * [Walker Init / _w](api-native-functions/w.md)
+    * [Walker Init / \_w](api-native-functions/w.md)
   * Scores
     * [Score Definition](api-native-functions/score-definition.md)
     * SetScore
@@ -254,8 +252,8 @@
     * [SetStillClick](api-native-functions/setstillclick.md)
     * AddActiveTime
     * ModsSelect
-    * Pawn_Score
-    * Announce_Score
+    * Pawn\_Score
+    * Announce\_Score
     * [DrawDigit](api-native-functions/drawdigit.md)
     * [Icon](api-native-functions/icon.md)
     * [PrintArray](api-native-functions/printarray.md)
