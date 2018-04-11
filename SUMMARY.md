@@ -163,13 +163,13 @@
     * [WalkerDirUp](api-native-functions/walkerdirup.md)
     * [WalkerCompareDir](api-native-functions/walkercomparedir.md)
     * [Walker Init / \_w](api-native-functions/w.md)
-  * Scores
+  * [Scores](api-native-functions/scores.md)
     * [Score Definition](api-native-functions/score-definition.md)
-    * SetScore
-    * SetAP
-    * GetAP
+    * [SetScore](api-native-functions/setscore.md)
+    * [SetAP](api-native-functions/setap.md)
+    * [GetAP](api-native-functions/getap.md)
     * GetPS
-    * AnnounceBestScore
+    * [AnnounceBestScore](api-native-functions/announcebestscore.md)
   * Precise Timing
     * EnablePreciseTiming
     * TimerIncSet
@@ -309,7 +309,7 @@
   * [Sample rate compensation](sound-resources/sample-rate-compensation.md)
   * [Frequency response compensation](sound-resources/frequency-response-compensation.md)
 * [Installation packages](installation-package.md)
-* [Bluetooth Low Energy - **EXPERIMENTAL**](ble.md)
+* [Bluetooth Low Energy - EXPERIMENTAL](ble.md)
   * [SW requirements](ble/sw-reqs.md)
   * [HW setup](ble/hw-setup.md)
   * [BLE characteristic offered by Rubik’s Futuro Cube](ble/ble-characteristics.md)
@@ -326,3 +326,4 @@
   * [First 2 Way Test With Provided Example](ble/first-two-way-test.md)
   * [Useful Hints](ble/useful-hints.md)
   * [Priorities of Queues](ble/priorities-of-queues.md)
+
